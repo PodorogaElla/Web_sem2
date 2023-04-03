@@ -1,0 +1,28 @@
+h1{
+    color: #d81b1b
+}
+h2{
+    color: #4916f1;
+}
+a{
+    color: forestgreen;
+}
+html{
+    background-color: cornflowerblue;
+
+}
+/* размер картинки */
+img{
+    width: 200px;
+    margin-left: 50px
+}
+.big_text{
+    font-size: 1.5rem;
+}
+ul{
+    list-style-type: square; /*квадратные маркеры*/
+}
+a:hover{
+    color: #4916f1;
+    outline: dotted green ;
+}
