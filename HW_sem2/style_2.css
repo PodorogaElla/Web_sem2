@@ -1,0 +1,37 @@
+h1{
+    color: #d81b1b
+}
+h2{
+    color: #4916f1;
+}
+h3{
+    color: #f11616;
+    font-size: 150%;
+
+}
+a{
+    color: rgba(93, 17, 169, 0.466);
+}
+html{
+    background-color: rgba(80, 241, 131, 0.487);
+
+}
+/* размер картинки */
+img{
+    width: 200px;
+    margin-left: 50px
+}
+.big_text{
+    font-size: 1.5rem;
+}
+ul{
+    list-style-type: square; /*квадратные маркеры*/
+}
+a:hover{
+    color: #4916f1;
+    outline: dotted green ;
+}
+li{
+    color: #4916f1;
+    font-size: 150%;
+}
